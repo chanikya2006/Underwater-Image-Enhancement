@@ -1,3 +1,9 @@
+## Anthasagari Project
+Antahsagri is an underwater ROV(Remotely Operated Vehicle) which uses camera for underwater exploriation but the output from camera usually get hampered by low contrast, color changes, and interference due, for example,camera noise and floating particles such as sea snow.Especially with cameras mounted on the ROV, these effects make observation more difficult and exhausting.
+
+All this is achived using OpenCV, Deep Learning, and Python programming language.
+
+
 ### SESR: Simultaneous Enhancement and Super-Resolution 
 - Perceptually enhanced image generation at higher spatial scales
 
@@ -28,15 +34,7 @@
 - Can be downloaded from: http://irvlab.cs.umn.edu/resources/ufo-120-dataset
 
 
-#### Bibliography entry:
-	
-	@inproceedings{islam2020sesr,
-	    author={Islam, Md Jahidul and Luo, Peigen and Sattar, Junaed},
-	    title={{Simultaneous Enhancement and Super-Resolution of Underwater Imagery 
-	    	    for Improved Visual Perception}},
-	    booktitle={Robotics: Science and Systems (RSS)},
-	    year={2020},
-	    month={July},
+
 	    address={Corvalis, Oregon, USA},
 	    doi={{10.15607/RSS.2020.XVI.018}}
 	}
