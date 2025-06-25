@@ -21,7 +21,7 @@ All this is achived using OpenCV, Deep Learning, and Python programming language
 
 ### Deep SESR model
 - An efficient model for underwater imagery; can be trained end-to-end for 2x-4x SESR 
-- Model architecture and implementation details: https://arxiv.org/pdf/2002.01155.pdf
+- Model architecture and implementation details:  https://arxiv.org/pdf/2002.01155.pdf
 - Weights for Deep SESR 2x with 1D FENet (trained on UFO-120) are provided in models/
 	- HDF5: deep_sesr_2x_1d.h5 file; use [test_sesr_Keras.py](test_sesr_Keras.py)
 	- Protobuf: deep_sesr_2x_1d.pb file; use [test_sesr_TF.py](test_sesr_TF.py) 
